@@ -69,12 +69,17 @@ This strategy balances **data accuracy**, **customer centricity**, and **scalabi
 
 ## 📂 Repository Structure
 
-├── data/               # Raw and cleaned datasets
-├── notebooks/          # EDA and model development
-├── streamlit_app/      # Streamlit source code
-├── reports/            # Final project report and presentation
-├── README.md           # Project overview and documentation
+## 📂 Repository Structure
 
+```bash
+
+├── README.md           # Project overview and documentation
+├── model.pkl           # Trained Random Forest model for churn prediction
+├── scaler.pkl          # Scaler object used for feature normalization
+├── requirements.txt    # Python dependencies for running the app
+├── streamlit_app.py    # Source code for the Streamlit web application
+
+```
 ---
 
 ## 🔮 Future Enhancements
