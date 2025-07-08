@@ -69,11 +69,11 @@ This strategy balances **data accuracy**, **customer centricity**, and **scalabi
 
 ## 📂 Repository Structure
 
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # EDA and model development
-├── streamlit_app/ # Streamlit source code
-├── reports/ # Final project report and presentation
-├── README.md # Project overview and documentation
+├── data/               # Raw and cleaned datasets
+├── notebooks/          # EDA and model development
+├── streamlit_app/      # Streamlit source code
+├── reports/            # Final project report and presentation
+├── README.md           # Project overview and documentation
 
 ---
 
@@ -97,6 +97,6 @@ We plan to enhance the project further with the following features:
 
 ## 📬 Contact
 
-Feel free to reach out if you'd like to learn more about the project or see the app in action!
+Feel free to reach out if you'd like to learn more about the project!
 🔗 [LinkedIn](https://www.linkedin.com/in/gopidodda96)
 
